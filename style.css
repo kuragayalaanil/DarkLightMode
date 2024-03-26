@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btn{
+    position: absolute;
+    right: 0;
+}
+
+.dark{
+    background-color:black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
